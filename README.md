@@ -1,4 +1,4 @@
-# Dotfiles
+# Dotfiles OUTDATED
 
 ### My dotfiles, using Arch Linux and i3.
 
